@@ -23,4 +23,4 @@ else {somaimpar = somaimpar + v4;}
 Console.WriteLine($"soma dos pares = {somapar}");
 Console.WriteLine($"soma dos impares = {somaimpar}");
   }
-}
+} 
